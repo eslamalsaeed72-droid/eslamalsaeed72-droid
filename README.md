@@ -1,4 +1,6 @@
 
+---
+
 ```html
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
@@ -60,5 +62,8 @@ Assiut University (2019 – 2024)
 ---
 
 ⭐ *Actively seeking opportunities in Embedded Systems, Robotics, and AI-driven roles.*
+```
 
+---
 
+قولي و أظبطهالك فورًا 💪✨
