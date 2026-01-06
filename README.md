@@ -54,8 +54,13 @@ Assiut University (2019 – 2024)
 ---
 
 ## 📜 Certifications
-- AI (ML & DL) – NTI (Huawei)  
-- Embedded Systems Diploma – IMT  
+-AI (Machine Learning & Deep Learning) – NTI (Huawei), Aug 2024
+
+-Embedded Systems Diploma – IMT, Jul 2023 – Mar 2024
+
+-Machine Learning – Udemy, Feb 2023 – Mar 2023
+
+-Embedded Arduino Projects – Smart Technology, Jun 2022 – Jul 2022
 
 ---
 
