@@ -29,7 +29,8 @@
 
 **Mechatronics Engineer | Embedded Systems | AI & Robotics Engineer**
 📍 Egypt | 🌍 Open to Relocation & Remote Opportunities
-📧 [eslamalsaeed72@gmail.com](mailto:eslamalsaeed72@gmail.com) | 🔗 LinkedIn: linkedin.com/in/eslam-alsaeed-1a23921aa
+📧 [eslamalsaeed72@gmail.com](mailto:eslamalsaeed72@gmail.com) 
+🔗 LinkedIn: https://www.linkedin.com/in/eslam-alsaeed-1a23921aa 
 
 ---
 
