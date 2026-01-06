@@ -1,7 +1,5 @@
 
----
 
-```html
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge" />
