@@ -1,74 +1,64 @@
 
----
+```html
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-1976D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-455A64?style=for-the-badge" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-# Eslam Alsaeed Hameed
+# 👋 Eslam Alsaeed Hameed
 
-**Mechatronics Engineer | Embedded Systems | AI & Robotics**
+### Mechatronics Engineer | Embedded Systems | AI & Robotics
 
----
-
-### 🛠️ Tech Stack
-
-</div>
-
-## 🔹 Professional Summary
-
-**Mechatronics Engineer** specializing in bridging the gap between hardware and AI. Experienced in designing **autonomous systems**, **Edge AI deployment**, and **embedded control**. Proven ability to deliver integrated solutions like autonomous drones and smart vehicles using **C++, Python, and Deep Learning**.
-
----
-
-## 🔹 Technical Expertise
-
-| Domain | Skills & Tools |
-| --- | --- |
-| **AI & ML** | Deep Learning (CNN, RNN, ANN), Computer Vision (YOLO), GenAI, LLMs, LangChain. |
-| **Embedded Systems** | C/C++, Arduino, AVR, ESP32, Raspberry Pi, Sensors Integration, PID Control. |
-| **Development** | Python, SQL, Chttps://www.google.com/search?q=%23, Streamlit, MATLAB/Simulink, SolidWorks, Git/GitHub. |
+📍 Egypt · 🌍 Open to Remote & Relocation  
+📧 [eslamalsaeed72@gmail.com](mailto:eslamalsaeed72@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/eslam-alsaeed-1a23921aa)
 
 ---
 
-## 🔹 Experience
-
-**Electrical Engineer Trainee** | *JCB – Tackmane, Egypt*
-*(Oct 2024 – Dec 2024)*
-
-* Completed **232 hours** of intensive training in heavy equipment maintenance.
-* Diagnosed complex electrical/control systems and applied strict industrial safety standards.
+## 🚀 About Me
+Mechatronics Engineer with hands-on experience in **Embedded Systems, Robotics, and AI**.  
+I build real-world intelligent systems that combine **hardware, firmware, and machine learning**, with a strong interest in **Edge AI and autonomous systems**.
 
 ---
 
-## 🔹 Key Projects
-
-### 🚁 Medical Delivery Drone (Graduation Project - A+)
-
-* **Overview:** Designed an autonomous drone for medical supply delivery utilizing embedded control and intelligent navigation.
-* **Tech:** C++, Arduino, ESP, Raspberry Pi, SolidWorks.
-
-### 🚗 AI Object Detection Smart Car
-
-* **Overview:** Developed a real-time object detection system for autonomous navigation using Edge AI.
-* **Tech:** Python, OpenCV, TensorFlow, YOLO, Raspberry Pi 4.
-
-### ❤️ Heart Disease Detection Model
-
-* **Overview:** Built high-accuracy ML models for disease prediction using advanced feature engineering.
-* **Tech:** Python, Scikit-Learn, Pandas, TensorFlow.
+## 🧠 Core Skills
+- **AI & ML:** Machine Learning, Deep Learning, Computer Vision (YOLO), Edge AI  
+- **Embedded & Robotics:** Embedded C/C++, Arduino, AVR, ESP, Raspberry Pi, PID Control  
+- **Tools:** Python, TensorFlow, PyTorch, MATLAB, SolidWorks, Git  
 
 ---
 
-## 🔹 Education & Certifications
+## 🔬 Featured Projects
+- 🚁 **Medical Delivery Drone (A+)** – Autonomous drone integrating embedded control & navigation  
+- 🚗 **AI Smart Car** – Real-time object detection on Raspberry Pi  
+- ❤️ **Heart Disease Detection** – ML models for medical prediction  
+- 🚙 **Mobile-Controlled Smart Car (A+)** – Arduino-based wireless control system  
 
-* 🎓 **B.Sc. Mechatronics Engineering** | Assiut University *(2019 – 2024)*
-* 📜 **AI (ML & DL)** – NTI (Huawei)
-* 📜 **Embedded Systems Diploma** – IMT
-* 📜 **Machine Learning** – Udemy
+---
+
+## 🎓 Education
+**B.Sc. in Mechatronics Engineering**  
+Assiut University (2019 – 2024)
 
 ---
 
-<div align="center">
-⭐ <i>Open to Relocation & Remote Opportunities in Embedded Systems & AI.</i>
-</div>
+## 📜 Certifications
+- AI (ML & DL) – NTI (Huawei)  
+- Embedded Systems Diploma – IMT  
 
 ---
+
+⭐ *Actively seeking opportunities in Embedded Systems, Robotics, and AI-driven roles.*
+
+
