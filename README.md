@@ -65,5 +65,3 @@ Assiut University (2019 – 2024)
 ---
 
 ⭐ *Actively seeking opportunities in Embedded Systems, Robotics, and AI-driven roles.*
-```
-
