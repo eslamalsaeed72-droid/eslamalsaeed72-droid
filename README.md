@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-# 👋 Eslam Alsaeed ِAbdel Hameed
+# 👋 Eslam Alsaeed Abdel_Hameed
 
 ### Mechatronics Engineer | Embedded Systems | AI & Robotics
 
